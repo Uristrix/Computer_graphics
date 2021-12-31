@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tao-OpenGL-Initialization-Test", "Tao-OpenGL-Initialization-Test\Tao-OpenGL-Initialization-Test.csproj", "{F52192EC-44B6-4D8A-B353-2E66ABAF32DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F52192EC-44B6-4D8A-B353-2E66ABAF32DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52192EC-44B6-4D8A-B353-2E66ABAF32DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52192EC-44B6-4D8A-B353-2E66ABAF32DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52192EC-44B6-4D8A-B353-2E66ABAF32DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0207035C-4686-45C2-95EE-DE947966602A}
+	EndGlobalSection
+EndGlobal
